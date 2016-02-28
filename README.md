@@ -1,7 +1,7 @@
 ## Joomla 3 Module - Pop-up subscribing form
 ## Модуль для Joomla 3 - Pop-up subscribing form
 
-__Pop-up form for mail subscribing!
+__Pop-up form for mail subscribing!__
 
 Options you can set
 
@@ -16,7 +16,7 @@ Options you can set
 > Only for Joomla 3
 > Working with two languages: EN & RU
 
-__Всплывающее окно с формой емэйл подписки.
+__Всплывающее окно с формой емэйл подписки.__
 
 Опции для управления
 
