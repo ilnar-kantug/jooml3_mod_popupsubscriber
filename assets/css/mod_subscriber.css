@@ -1,0 +1,59 @@
+#pop_up_subs_form_wrapper{
+	background-color: #fff;
+	display:none;
+    z-index: 99999;
+}
+
+#pop_up_subs_form_overlay {
+    background: #000000 none repeat scroll 0 0;
+    display: none;
+    height: 100%;
+    opacity: 0.8;
+    position: fixed;
+    width: 100%;
+    z-index: 99998;
+	top: 0px;
+	left: 0px;
+}
+#pop_up_subs_form{
+	padding: 40px 80px 0;
+}
+form#subscriber-form {
+margin: 0 !important;
+}
+.ns-error, .ns-email-error{
+	color:red;
+}
+.ns-success{
+	display: block;
+	color: green;
+	font-size: 18px;
+	margin-top: 40px;
+	text-align: center;
+}
+
+.ns-email-error {
+    display: none;
+}
+#ns-close{
+	float:right;
+	background:url(../img/close.png) no-repeat 0 0;
+	height:16px;
+	width:16px;
+	margin-top: 10px;
+    margin-right: 10px;
+	cursor:pointer;
+}
+#pop_up_title{
+	text-align: center;
+	font-size: 20px;
+	color: gray;
+	margin-bottom: 10px;
+}
+input#ns-submit {
+	margin: 0 auto;
+	display: block;
+}
+#pop_up_subs_form_wrapper .form-group {
+	margin: auto;
+}
