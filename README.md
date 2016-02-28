@@ -13,7 +13,6 @@ Options you can set
 * How many times pop-up will be shown if user will ignor it
 * Collect subscribers to subscribers_list.csv file
 
-> Only for Joomla 3
 > Working with two languages: EN & RU
 
 __Всплывающее окно с формой емэйл подписки.__
@@ -28,5 +27,4 @@ __Всплывающее окно с формой емэйл подписки.__
 * Сколько раз окно будет показываться в случае если пользователь будет его игнорировать 
 * Сбор базы подписчиков в файл subscribers_list.csv 
 
-> Only for Joomla 3
 > Поддержка 2х языков: EN & RU
